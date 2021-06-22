@@ -1,9 +1,9 @@
-# Welcome to Rock, Paper, Sissors agains the MACHINE!
+# Welcome to Rock, Paper, scissors agains the MACHINE!
 import random
 
-# variables to delare for user our rock paper sissors
+# variables to delare for user our rock paper scissors
 # Ask user for choice
-# way for computer to random choose rock paper sissors
+# way for computer to random choose rock paper scissors
 # Check if they equal then tie
 # Check if user wins
 # Check if MACHINE wins
@@ -12,7 +12,7 @@ r = None
 p = None
 s = None
 
-user = input('Please choose "r" for rock, "p" for paper, and "s" for sissors" \n').lower()
+user = input('Please choose "r" for rock, "p" for paper, and "s" for scissors" \n').lower()
 
 
 options = ['r', 'p', 's']
